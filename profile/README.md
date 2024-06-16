@@ -1,4 +1,4 @@
-# Description
+# Welcome to Wishata Repository
 
 ## Background
 Our team developed this project after noticing the low community interest in local tourism. We saw the potential to use technology to address these issues and promote sustainable tourism practices. Through brainstorming sessions and discussions, we collectively identified the opportunity to create a mobile application that recommends nearby tourist attractions and provides recommendations based on user-preferred ambiance. This project aligns with our shared passion for technology-driven solutions that make a positive impact on society and the environment.
